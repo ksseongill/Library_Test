@@ -1,4 +1,4 @@
-import sys
+import sy
 
 from PyQt5.QtWidgets import *
 from PyQt5 import uic
